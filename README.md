@@ -1,5 +1,5 @@
 # Overview
-This repository contains two game development projects created in C during the first year of my computer engineering degree.
+Two game development projects created in C during the first year of my computer engineering degree.
 
 ## Projects
 
