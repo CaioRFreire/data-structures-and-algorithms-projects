@@ -1,10 +1,10 @@
 # Overview
 This repository contains two game development projects created in C during my computer engineering degree, focusing on programming logic, algorithms, pointers, and dynamic memory allocation.
 
-# Projects
+## Projects
 
-## Ludo Game
+### Ludo Game
 Developed during Algorithms and Data Structures I, focusing on core programming fundamentals and game logic implementation in C.
 
-## Rouba Monte Game
+### Rouba Monte Game
 Developed during Algorithms and Data Structures II, involving more advanced logic, data structures, and memory manipulation concepts in C.
